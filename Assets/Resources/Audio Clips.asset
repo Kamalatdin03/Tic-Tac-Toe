@@ -1,0 +1,21 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 84c88c6b35250c2408259e8a478a926e, type: 3}
+  m_Name: Audio Clips
+  m_EditorClassIdentifier: 
+  buttonSound: {fileID: 8300000, guid: 3cc5984e76410ba43ad63a0c3bf33c59, type: 3}
+  winSound: {fileID: 8300000, guid: 8b04509d33a499446a9e7f8cc807d789, type: 3}
+  drawSound: {fileID: 8300000, guid: 677c51fbc8ca76d43ac5c53656eccb91, type: 3}
+  ticSound: {fileID: 8300000, guid: ba03e03af6fe58540bbfed2275c2a172, type: 3}
+  tacSound: {fileID: 8300000, guid: 6c9079bc02463074f8acbd27909efc3f, type: 3}
+  switchOn: {fileID: 8300000, guid: a7e7ebb61b4ef804e92dcaa7bad542b0, type: 3}
+  switchOff: {fileID: 8300000, guid: f9a16ff1216958844801b2fe26a87f51, type: 3}
