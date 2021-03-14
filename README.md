@@ -1,4 +1,4 @@
-# Tic-Tac-Toe With MinMax Algorithm
+# Tic-Tac Toe With MinMax Algorithm
 
 The classic game noughts and crosses created in Unity.
 Using UI elements.
